@@ -6,6 +6,7 @@ A Unity Editor tool for non-destructively modifying imported FBX models. It prov
 Please see the following links, they delve much deeper into how the asset works.
 
 [Asset Link](https://assetstore.unity.com/packages/tools/modeling/fbx-editor-332318)
+
 [Tutorial Series](https://youtube.com/playlist?list=PLOsqD8iK9BeMTHLWlDIe3C7NC53LK-iKR&si=swH3ZkgtQhQDwOnj)
 
 # Development
