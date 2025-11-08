@@ -10,7 +10,7 @@ Please see the following links, they delve much deeper into how the asset works.
 [Tutorial Series](https://youtube.com/playlist?list=PLOsqD8iK9BeMTHLWlDIe3C7NC53LK-iKR&si=swH3ZkgtQhQDwOnj)
 
 # Development
-The FBXEditor was born from my own frustrations during game development. I frequently encountered issues with third-party models that required modification, but the standard workflow—"round-tripping" a model by exporting it to a 3D program and re-importing—is notoriously time-consuming and error-prone. The FBXEditor was created to solve this, allowing developers to perform complex edits directly inside Unity, free from the normal editor's constraints. This tool was developed over a two-month period. Note, no code is included here because that would defeat the purpose of selling it for money.
+The FBXEditor was born from my own frustrations during game development. I frequently encountered issues with third-party models that required modification, but the standard workflow—"round-tripping" a model by exporting it to a 3D program and re-importing—is notoriously time-consuming and error-prone. The FBXEditor was created to solve this, allowing developers to perform complex edits directly inside Unity, free from the normal editor's constraints. This tool was developed over a two-month period. Note, no code is included here since I am selling it for money.
 
 # Revenue
 Since Launch 10/15/25 The FBXEditor has generated 1800$+ of revenue.
