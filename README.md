@@ -15,5 +15,5 @@ The FBXEditor was born from my own frustrations during game development. I frequ
 # Results
 - Since Launch 10/15/25 The FBXEditor has generated 5000$+ of revenue.
 - Invited to 2 Official Unity Asset Store Sales.
-- Invted to Game.tv Humble Bundle.
+- Invited to Game.tv Humble Bundle.
 
