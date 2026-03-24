@@ -1,7 +1,7 @@
 ![34480187-3af1-4be4-bf66-7ca1c4b68a7d](https://github.com/user-attachments/assets/f874cc51-206d-4024-8f2a-49b35a482059)
 
 # FBXEditor
-A Unity Editor tool for non-destructively modifying imported FBX models. It provides tools to combine/separate static and skinned meshes, bake transforms to fix orientation, edit pivots, and auto-link textures. The final edited model can be saved as a new FBX file or overwrite the original asset.
+A Unity Editor tool for non-destructively modifying imported FBX models. It provides tools to combine/separate static and skinned meshes, bake transforms to fix orientation, edit pivots, auto-link textures, and batch editing operations.
 
 Please see the following links, they delve much deeper into how the asset works.
 
